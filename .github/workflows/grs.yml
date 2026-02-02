@@ -29,7 +29,6 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           plugin_languages_threshold: 2%
-          config_timezone: Europe/Dublin
 
       - name: Generate general info stats card
         uses: lowlighter/metrics@latest
@@ -37,11 +36,6 @@ jobs:
           user: ${{ github.repository_owner }}
           token: ${{ secrets.METRICS_TOKEN }}
           filename: profile/stats.svg
-
-          base: ""
-          plugin_stats: yes
-          plugin_stats_display: summary 
-          config_theme: github-dark
 
       - name: Commit cards
         run: |
