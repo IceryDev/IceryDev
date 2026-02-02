@@ -31,6 +31,18 @@ jobs:
           plugin_languages_threshold: 2%
           config_timezone: Europe/Dublin
 
+      - name: Generate general info stats card
+        uses: lowlighter/metrics@latest
+        with:
+          user: ${{ github.repository_owner }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: profile/stats.svg
+
+          base: ""
+          plugin_stats: yes
+          plugin_stats_display: summary 
+          config_theme: github-dark
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
