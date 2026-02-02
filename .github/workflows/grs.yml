@@ -11,6 +11,7 @@ jobs:
 
     permissions:
       contents: write
+      metadata: read
 
     steps:
       - uses: actions/checkout@v4
