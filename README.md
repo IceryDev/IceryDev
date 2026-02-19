@@ -1,4 +1,4 @@
-## Hi there 👋, I'm IceryDev
+## Hi there, I'm Ulaş (IceryDev), Integrated Computer Science student at Trinity.
 
 <table align="center">
 <tr>
