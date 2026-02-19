@@ -9,7 +9,18 @@ Welcome to my profile! I'm Ulaş (IceryDev), I am a first-year Integrated Comput
 </tr>
 </table>
 
-### Languages & Tools:
+## Active Project:
+### Physics Simulator
+A physics simulator/game engine built with Processing.
+ - Rigidbodies that support linear and angular motion
+ - Separating Axis Theorem (SAT) collision detection  
+ - Sprite rendering 
+ - Scene management
+ - Built-in assets (Timer & GameObject)
+
+➡️ [View Repository](https://github.com/IceryDev/PhysicsSim)
+
+## Languages & Tools:
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,dart,arduino,python,cs,md,r,assembly,jupyter" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=processing,flutter,pycharm,idea,unity,maven,notion,obsidian,vscode,visualstudio,aseprite,freecad" />
