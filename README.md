@@ -9,7 +9,7 @@ Welcome to my profile! I'm Ulaş (IceryDev), I am a first-year Integrated Comput
 </tr>
 </table>
 
-## Active Project:
+## Active Projects:
 ### Physics Simulator
 A physics simulator/game engine built with Processing.
  - Rigidbodies that support linear and angular motion
@@ -19,6 +19,10 @@ A physics simulator/game engine built with Processing.
  - Built-in assets (Timer & GameObject)
 
 ➡️ [View Repository](https://github.com/IceryDev/PhysicsSim)
+### Digishelf
+A Flutter app to track the books you have read.
+
+➡️ [View Repository](https://github.com/jagoda-ks/Digishelf)
 
 ## Languages & Tools:
 <p align="center">
