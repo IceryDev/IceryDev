@@ -23,7 +23,7 @@ jobs:
           user: ${{ github.repository_owner }}
 
           base: ""
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout: 45
           repositories_affiliations: owner, collaborator
           plugin_languages: yes
           plugin_languages_indepth: yes
