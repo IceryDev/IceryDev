@@ -10,15 +10,12 @@ Welcome to my profile! I'm Ulaş (IceryDev), I am a first-year Integrated Comput
 </table>
 
 ## Active Projects:
-### Physics Simulator
-A physics simulator/game engine built with Processing.
- - Rigidbodies that support linear and angular motion
- - Separating Axis Theorem (SAT) collision detection  
- - Sprite rendering 
- - Scene management
- - Built-in assets (Timer & GameObject)
+### Flight Analyser
+A Java Swing application to display and analyse live and historical flight data.
+ - Historical data from US Bureau of Transportation
+ - Live data from OpenSky Network REST API and hexdb.io API
 
-➡️ [View Repository](https://github.com/IceryDev/PhysicsSim)
+➡️ [View Repository](https://github.com/IceryDev/Flight-Analyser)
 ### Digishelf
 A Flutter app to track the books you have read.
 
