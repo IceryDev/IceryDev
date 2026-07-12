@@ -23,8 +23,8 @@ A Flutter app to track the books you have read.
 
 ## Languages & Tools:
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,dart,arduino,python,cs,md,r,assembly,jupyter" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,dart,arduino,python,cs,cpp,md,r,assembly,jupyter" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=processing,flutter,pycharm,idea,unity,maven,notion,obsidian,vscode,visualstudio,aseprite,freecad" />
 </p>
 
-##### Currently Learning: R, Dart, Flutter
+##### Currently Learning: C++
