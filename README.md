@@ -9,13 +9,12 @@ Welcome to my profile! I'm Ulaş (IceryDev), I am a first-year Integrated Comput
 </tr>
 </table>
 
-## Active Projects:
-### Flight Analyser
-A Java Swing application to display and analyse live and historical flight data.
- - Historical data from US Bureau of Transportation
- - Live data from OpenSky Network REST API and hexdb.io API
+## Recent Projects:
+### Bash Runner
+A KRunner plugin that allows passing parameters to custom bash scripts.
+ - Uses KRunner::AbstractRunner interface and the KCModule
 
-➡️ [View Repository](https://github.com/IceryDev/Flight-Analyser)
+➡️ [View Repository](https://github.com/IceryDev/BashRunner)
 ### Digishelf
 A Flutter app to track the books you have read.
 
