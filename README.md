@@ -29,4 +29,4 @@ A KRunner plugin that allows passing parameters to custom bash scripts.
   <img src="https://go-skill-icons.vercel.app/api/icons?i=processing,flutter,pycharm,idea,unity,maven,notion,obsidian,vscode,visualstudio,aseprite,freecad" />
 </p>
 
-##### Currently Learning: C++
+###### Favourite Languages: C++ & ARM Asm
