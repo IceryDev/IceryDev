@@ -10,15 +10,18 @@ Welcome to my profile! I'm Ulaş (IceryDev), I am a first-year Integrated Comput
 </table>
 
 ## Recent Projects:
+### Rigidbody Kinematics Helpers
+Code for calculating spacecraft attitudes for my Coursera course written in C++.
+- DCMs, Euler Angles, Quaternions, PRVs, CRPs, & MRPs with differential kinematic equation integrators
+- TRIAD, Devenport's q, QUEST, & OLAE attitude solvers
+
+➡️ [View Repository](https://github.com/IceryDev/RBKinematicsHelpers)
+
 ### Bash Runner
 A KRunner plugin that allows passing parameters to custom bash scripts.
  - Uses KRunner::AbstractRunner interface and the KCModule
 
 ➡️ [View Repository](https://github.com/IceryDev/BashRunner)
-### Digishelf
-A Flutter app to track the books you have read.
-
-➡️ [View Repository](https://github.com/jagoda-ks/Digishelf)
 
 ## Languages & Tools:
 <p align="center">
