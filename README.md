@@ -1,6 +1,6 @@
 ## Hi there!
 
-Welcome to my profile! I'm Ulaş (IceryDev), I am a first-year Integrated Computer Science student at Trinity.
+Welcome to my profile! I'm Ulaş (IceryDev). I am a second-year Integrated Computer Science student at Trinity.
 
 <table align="center">
 <tr>
@@ -26,7 +26,7 @@ A KRunner plugin that allows passing parameters to custom bash scripts.
 ## Languages & Tools:
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,dart,arduino,python,cs,cpp,md,r,assembly,jupyter" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=processing,flutter,pycharm,idea,unity,maven,notion,obsidian,vscode,visualstudio,aseprite,freecad" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,processing,flutter,pycharm,idea,unity,maven,notion,obsidian,vscode,visualstudio,aseprite,freecad" />
 </p>
 
 ###### Favourite Languages: C++ & ARM Asm
